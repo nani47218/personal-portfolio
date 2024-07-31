@@ -1,6 +1,6 @@
 {
-  "homepage": "https://nani47218.github.io/portfolio",
-  "name": "portfolio",
+  "homepage": "https://nani47218.github.io/personal-portfolio",
+  "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
