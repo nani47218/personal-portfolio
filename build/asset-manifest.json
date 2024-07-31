@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a893179b.css",
+    "main.js": "/portfolio/static/js/main.dc938db9.js",
+    "static/media/project4.png": "/portfolio/static/media/project4.d7cb8809a46647d6bc7b.png",
+    "static/media/profile.png": "/portfolio/static/media/profile.6ccee711c8b7495e2312.png",
+    "static/media/project1.png": "/portfolio/static/media/project1.c00692d4cc7facc527ba.png",
+    "static/media/SQL.jpg": "/portfolio/static/media/SQL.5c7d15e13be858a9607d.jpg",
+    "static/media/project6.png": "/portfolio/static/media/project6.a1eac36da32a394c2bb1.png",
+    "static/media/project2.png": "/portfolio/static/media/project2.9214427f251b6dbe8dd8.png",
+    "static/media/scikit.jpg": "/portfolio/static/media/scikit.4b27cb37d977d8ee3922.jpg",
+    "static/media/seaborn.png": "/portfolio/static/media/seaborn.56fbc064f2a31dd1fef6.png",
+    "static/media/project5.png": "/portfolio/static/media/project5.6803fa645dd1f6ec5c43.png",
+    "static/media/project3.jpg": "/portfolio/static/media/project3.6930cff774c4a4b702fd.jpg",
+    "static/media/R.jpg": "/portfolio/static/media/R.b2c7b2e680afaf1d930f.jpg",
+    "static/media/tableau.jpg": "/portfolio/static/media/tableau.9f539a10887d68676c13.jpg",
+    "static/media/msexcel.jpeg": "/portfolio/static/media/msexcel.4543c764b1d5aaf47838.jpeg",
+    "static/media/pandas.png": "/portfolio/static/media/pandas.dbd182df44b28565b651.png",
+    "static/media/python.jpg": "/portfolio/static/media/python.fe1d034261bb757c7f29.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.a893179b.css.map": "/portfolio/static/css/main.a893179b.css.map",
+    "main.dc938db9.js.map": "/portfolio/static/js/main.dc938db9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a893179b.css",
+    "static/js/main.dc938db9.js"
+  ]
+}
